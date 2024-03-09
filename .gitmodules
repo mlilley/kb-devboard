@@ -1,0 +1,12 @@
+[submodule "kicad/libs/crides_kleeb"]
+	path = kicad/libs/crides_kleeb
+	url = git@github.com:crides/kleeb.git
+[submodule "kicad/libs/mlilley_kb-parts-kicad"]
+	path = kicad/libs/mlilley_kb-parts-kicad
+	url = git@github.com:mlilley/kb-parts-kicad.git
+[submodule "ergogen/footprints/ceoloide_ergogen-footprints"]
+	path = ergogen/footprints/ceoloide_ergogen-footprints
+	url = git@github.com:ceoloide/ergogen-footprints.git
+[submodule "ergogen/footprints/infused-kim_kb_ergogen_fp"]
+	path = ergogen/footprints/infused-kim_kb_ergogen_fp
+	url = git@github.com:infused-kim/kb_ergogen_fp.git

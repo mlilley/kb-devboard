@@ -1,0 +1,114 @@
+meta:
+  name: "kb-tester-shift30"
+  version: "1.0"
+  author: "michael.lilley@gmail.com"
+  url: "https://github.com/mlilley/kb-tester-shift30"
+  description: "Test board, 30 key ortho with shift register"
+  ergogen: "4.0.5"
+units:
+  kx: cx # 18mm
+  ky: cy # 17mm
+  px: kx + 2 
+  py: ky + 2
+  # configure preview outline size
+  $default_width: cx
+  $default_height: cy
+  # predefined...
+  # u - mx 19mm
+  # U - mx 19.05mm
+  # cx - choc 18mm
+  # cy - choc 17mm
+points:
+  zones:
+    matrix:
+      key:
+        # configure choc spacing
+        spread: kx
+        padding: ky
+      anchor:
+        # fix kicad placement
+        shift: [100, -100]
+      columns:
+        outer:
+        pinky:
+        ring:
+        middle:
+        index:
+        inner:
+      rows:
+        mod:
+        bottom:
+        home:
+        top:
+        num:
+outlines:
+  keys:
+    - what: rectangle
+      where: true
+      bound: false
+      size: [kx - 0.5, ky - 0.5]
+  board:
+    - what: polygon
+      operation: stack
+      points:
+        - ref: matrix_outer_num
+          shift: [-0.5px, 0.5py]
+        - ref: matrix_inner_num
+          shift: [1.3px, 0.5py]
+        - ref: matrix_inner_mod
+          shift: [1.3px, -0.5py]
+        - ref: matrix_outer_mod
+          shift: [-0.5px, -0.5py]
+      fillet: 2
+  combined:
+    - name: board
+    - operation: subtract
+      name: keys
+pcbs:
+  tester:
+    outlines:
+      main:
+        outline: board
+    footprints:
+      switches:
+        what: ceoloide_ergogen-footprints/switch_choc_v1_v2
+        where: true
+        params:
+          choc_v2_support: false
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+        adjust:
+          rotate: 180
+      diodes:
+        what: ceoloide_ergogen-footprints/diode_tht_sod123
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust: 
+          shift: [0, 5]
+      niceview:
+        what: ceoloide_ergogen-footprints/nice_view
+        where: matrix_inner_mod
+        params: 
+          include_labels: false
+          invert_jumpers_position: true
+        adjust:
+          shift: [kx, 0.6ky]
+      battery:
+        what: ceoloide_ergogen-footprints/battery_connector_jst_ph_2
+        where: matrix_inner_mod
+        adjust:
+          shift: [1.1kx, 1.9ky]
+          rotate: 90
+      headers:
+        what: jumper
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [5,5]
+
+
+
