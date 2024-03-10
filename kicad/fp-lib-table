@@ -3,4 +3,5 @@
   (lib (name "pg1350")(type "KiCad")(uri "${KIPRJMOD}/libs/crides_kleeb/pg1350.pretty")(options "")(descr ""))
   (lib (name "switch")(type "KiCad")(uri "${KIPRJMOD}/libs/crides_kleeb/switch.pretty")(options "")(descr ""))
   (lib (name "buttons")(type "KiCad")(uri "${KIPRJMOD}/libs/mlilley_kb-parts-kicad/footprints/buttons.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/libs/mlilley_kb-parts-kicad/footprints/logo.pretty")(options "")(descr ""))
 )
