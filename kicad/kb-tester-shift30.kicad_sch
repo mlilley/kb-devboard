@@ -6399,6 +6399,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "SOIC-16:74HC595D,118"
+			(at 233.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5947"
+			(at 233.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "9661fde2-4355-4177-943c-94fd9ed98cf5")
 		)
@@ -6509,6 +6527,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 162.56 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 162.56 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b321cd73-0e43-4c71-a8a3-10f32a0ebb3b")
 		)
@@ -6598,6 +6634,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7ae1dbe-3654-4a56-966e-7fd50c953172")
 		)
@@ -6666,6 +6720,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 71.12 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 71.12 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "098bb4f5-af7f-4226-8e4c-0560c5dad67d")
 		)
@@ -6726,6 +6798,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 116.84 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 116.84 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -6823,6 +6913,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e45db53d-55ce-4560-a033-839dea5418fa")
 		)
@@ -6912,6 +7020,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 78.74 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 78.74 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43e8fc3c-1785-4be9-a021-7ff206ecf9aa")
 		)
@@ -6980,6 +7106,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af83d510-61f2-4b4a-b2ec-1ded49a97459")
 		)
@@ -7040,6 +7184,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 71.12 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 71.12 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 71.12 82.55 0)
 			(effects
 				(font
@@ -7137,6 +7299,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 124.46 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 124.46 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4e57e58-ce88-4116-b591-d3b18c966216")
 		)
@@ -7226,6 +7406,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 55.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 55.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e65b83f-5bd7-4698-b171-af7935bd74cb")
 		)
@@ -7286,6 +7484,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 139.7 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 139.7 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 139.7 82.55 0)
 			(effects
 				(font
@@ -7383,6 +7599,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 55.88 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 55.88 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74cc17a8-8b39-483e-8be2-8489ebed3bfc")
 		)
@@ -7443,6 +7677,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 116.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 116.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 116.84 60.96 0)
 			(effects
 				(font
@@ -7519,6 +7771,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8cf2067a-6ee8-46ad-939a-ccf07a82fe5a")
 		)
@@ -7579,6 +7849,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 139.7 39.37 0)
 			(effects
 				(font
@@ -7655,6 +7943,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5e833f71-6f0c-4b0b-b36f-a53570c88174")
 		)
@@ -7715,6 +8021,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 139.7 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 139.7 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 139.7 104.14 0)
 			(effects
 				(font
@@ -7812,6 +8136,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 55.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 55.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2543a425-6fe4-4fee-9957-37a47be30c9a")
 		)
@@ -7893,6 +8235,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 124.46 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 124.46 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 124.46 45.72 0)
 			(effects
 				(font
@@ -7990,6 +8350,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 101.6 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 101.6 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "173819e9-2919-4c2d-86be-b0e1893aae3a")
 		)
@@ -8050,6 +8428,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 48.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 48.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 48.26 82.55 0)
 			(effects
 				(font
@@ -8147,6 +8543,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 78.74 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 78.74 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fda01222-eca6-4906-8cbe-d2a121795c6b")
 		)
@@ -8215,6 +8629,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 48.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 48.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "43caecfe-20bc-4efc-8fb4-f0ae4102b61f")
 		)
@@ -8275,6 +8707,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 139.7 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 139.7 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 139.7 60.96 0)
 			(effects
 				(font
@@ -8372,6 +8822,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 124.46 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 124.46 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66f02463-0a11-4923-a137-0eeb60123f92")
 		)
@@ -8461,6 +8929,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "545b8298-d2ac-4bed-b71e-163f61425c07")
 		)
@@ -8523,6 +9009,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 68.58 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 68.58 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 68.58 167.64 0)
 			(effects
 				(font
@@ -8629,6 +9133,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 101.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 101.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ed12355-ca14-4bff-95b5-edb267082cc6")
 		)
@@ -8688,6 +9210,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
+			(at 29.21 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 29.21 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 29.21 175.26 0)
 			(effects
 				(font
@@ -8815,6 +9355,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 147.32 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 147.32 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76f2c672-a752-45eb-8f5d-d41f604f101d")
 		)
@@ -8904,6 +9462,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2359e932-c25c-45b2-b436-98d2f50c6676")
 		)
@@ -8964,6 +9540,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 93.98 82.55 0)
 			(effects
 				(font
@@ -9040,6 +9634,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ddc8df4-3246-4cb9-bd3c-b7bab70c8266")
 		)
@@ -9100,6 +9712,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 48.26 60.96 0)
 			(effects
 				(font
@@ -9197,6 +9827,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 170.18 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 170.18 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85669f43-e53a-4e05-b9aa-d7d89a61a90a")
 		)
@@ -9257,6 +9905,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 48.26 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 48.26 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 48.26 104.14 0)
 			(effects
 				(font
@@ -9354,6 +10020,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 124.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 124.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e14abda6-e1dd-4a0c-b170-38a4abb20bcc")
 		)
@@ -9414,6 +10098,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 162.56 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 162.56 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 162.56 104.14 0)
 			(effects
 				(font
@@ -9490,6 +10192,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 162.56 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 162.56 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ea9a06b-4fde-477a-a1db-79fc10f8d920")
 		)
@@ -9558,6 +10278,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 71.12 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 71.12 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0c767af-7b0c-4928-8edb-16b1af6a9425")
 		)
@@ -9618,6 +10356,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 139.7 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 139.7 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 139.7 125.73 0)
 			(effects
 				(font
@@ -9715,6 +10471,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 147.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 147.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d9e7f22-b055-42ce-8366-e0702e100b83")
 		)
@@ -9796,6 +10570,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 147.32 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 147.32 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 147.32 67.31 0)
 			(effects
 				(font
@@ -9893,6 +10685,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 170.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 170.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "756a8db1-a56b-4dfa-9309-2093b270b05a")
 		)
@@ -9974,6 +10784,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 170.18 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 170.18 45.72 0)
 			(effects
 				(font
@@ -10071,6 +10899,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 101.6 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 101.6 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d051b19-8499-476f-bf59-86fb8aff5faa")
 		)
@@ -10152,6 +10998,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 124.46 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 124.46 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 124.46 132.08 0)
 			(effects
 				(font
@@ -10249,6 +11113,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 78.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 78.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc4e2336-422c-45a2-a946-e1937c3d8e69")
 		)
@@ -10330,6 +11212,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 147.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 147.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 147.32 132.08 0)
 			(effects
 				(font
@@ -10427,6 +11327,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 101.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 101.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3589d7fb-9e64-4668-b4ed-9d8532bad586")
 		)
@@ -10487,6 +11405,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 162.56 60.96 0)
 			(effects
 				(font
@@ -10563,6 +11499,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 93.98 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 93.98 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b93344a-c26c-47fd-bec9-efb5e3aa826b")
 		)
@@ -10623,6 +11577,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 93.98 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 93.98 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 93.98 125.73 0)
 			(effects
 				(font
@@ -10720,6 +11692,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d9d992a-0480-4960-8e0d-799df953927a")
 		)
@@ -10781,6 +11771,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 233.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 233.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 233.68 48.26 0)
 			(effects
 				(font
@@ -10917,6 +11925,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 93.98 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 93.98 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fd27ef7b-940b-47e2-9558-257e89c8d9e0")
 		)
@@ -10977,6 +12003,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 71.12 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 71.12 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 71.12 39.37 0)
 			(effects
 				(font
@@ -11053,6 +12097,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 162.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 162.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8469726b-439e-4e3b-a40d-22cf54ecaa58")
 		)
@@ -11075,7 +12137,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "deb6fc06-4e7f-4440-aaad-607a70c42ab5")
 		(property "Reference" "J3"
 			(at 107.442 170.18 0)
@@ -11194,6 +12256,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 114.3 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 114.3 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "814f027f-2ca8-402a-afc1-629db2a9ba01")
 		)
@@ -11281,6 +12361,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1N4148W"
+			(at 170.18 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 170.18 88.9 0)
 			(effects
 				(font
@@ -11378,6 +12476,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 55.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 55.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca88ef4a-1846-4783-81bd-94f47cf491b8")
 		)
@@ -11467,6 +12583,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "1N4148W"
+			(at 101.6 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
+			(at 101.6 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d363fa78-f95c-4b27-99f2-ba64e1581894")
 		)
@@ -11535,6 +12669,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" ""
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "612fb370-9c32-4f16-ae19-7fbff3c5d55c")
 		)
@@ -11595,6 +12747,24 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 93.98 60.96 0)
 			(effects
 				(font
