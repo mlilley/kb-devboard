@@ -33552,7 +33552,7 @@
 		(layer "Edge.Cuts")
 		(uuid "ec8b4c86-60e5-4b05-b1e5-df8f8e35dbc7")
 	)
-	(gr_text "REV.A 4/24"
+	(gr_text "REV B 4/24"
 		(at 123.4 48.7 0)
 		(layer "B.SilkS")
 		(uuid "0456c168-6236-40cb-9545-2bec3253a1c6")
